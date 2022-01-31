@@ -1,0 +1,8 @@
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.Domain\bin\Debug\netcoreapp2.1\ResourceAllocation.Domain.deps.json
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.Domain\bin\Debug\netcoreapp2.1\ResourceAllocation.Domain.dll
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.Domain\bin\Debug\netcoreapp2.1\ResourceAllocation.Domain.pdb
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.Domain\obj\Debug\netcoreapp2.1\ResourceAllocation.Domain.csproj.CoreCompileInputs.cache
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.Domain\obj\Debug\netcoreapp2.1\ResourceAllocation.Domain.AssemblyInfoInputs.cache
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.Domain\obj\Debug\netcoreapp2.1\ResourceAllocation.Domain.AssemblyInfo.cs
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.Domain\obj\Debug\netcoreapp2.1\ResourceAllocation.Domain.dll
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.Domain\obj\Debug\netcoreapp2.1\ResourceAllocation.Domain.pdb

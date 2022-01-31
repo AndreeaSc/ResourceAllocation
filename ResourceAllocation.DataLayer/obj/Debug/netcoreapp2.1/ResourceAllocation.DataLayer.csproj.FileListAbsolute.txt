@@ -1,0 +1,14 @@
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\bin\Debug\netcoreapp2.1\ResourceAllocation.DataLayer.deps.json
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\bin\Debug\netcoreapp2.1\ResourceAllocation.DataLayer.runtimeconfig.json
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\bin\Debug\netcoreapp2.1\ResourceAllocation.DataLayer.runtimeconfig.dev.json
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\bin\Debug\netcoreapp2.1\ResourceAllocation.DataLayer.dll
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\bin\Debug\netcoreapp2.1\ResourceAllocation.DataLayer.pdb
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\bin\Debug\netcoreapp2.1\ResourceAllocation.Domain.dll
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\bin\Debug\netcoreapp2.1\ResourceAllocation.Domain.pdb
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\obj\Debug\netcoreapp2.1\ResourceAllocation.DataLayer.csprojAssemblyReference.cache
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\obj\Debug\netcoreapp2.1\ResourceAllocation.DataLayer.csproj.CoreCompileInputs.cache
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\obj\Debug\netcoreapp2.1\ResourceAllocation.DataLayer.AssemblyInfoInputs.cache
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\obj\Debug\netcoreapp2.1\ResourceAllocation.DataLayer.AssemblyInfo.cs
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\obj\Debug\netcoreapp2.1\ResourceAllocation.DataLayer.csproj.CopyComplete
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\obj\Debug\netcoreapp2.1\ResourceAllocation.DataLayer.dll
+C:\Andreea\Licenta\ResourceAllocation.Api-master\ResourceAllocation.DataLayer\obj\Debug\netcoreapp2.1\ResourceAllocation.DataLayer.pdb
